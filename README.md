@@ -16,6 +16,6 @@ There are several core development concepts and different IOS APIs utilized in t
 
 Feel free to check out the code or watch the videos demoing the application below:
 
-![Watch the video](https://youtu.be/ZyNIsuPG75Y)
+![](twirl-demo2.gif)
 
-https://youtu.be/ZyNIsuPG75Y
+Higher Quality Version: https://youtu.be/ZyNIsuPG75Y
